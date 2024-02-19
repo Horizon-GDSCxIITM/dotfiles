@@ -45,7 +45,3 @@ Please do follow theses following rules !!
 - Make a new folder of your username (or name)
 - Contribute your dotfiles into that folder
 - Also make a Readme and inside it put a screenshot of your config 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
