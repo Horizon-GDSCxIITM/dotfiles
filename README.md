@@ -39,7 +39,12 @@ Feel free to explore the repository to see all the included configurations and s
 
 ## Contributions
 
-Contributions to this repository are welcome! If you have any improvements, additional configurations, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to this repository are welcome! 
+
+Please do follow theses following rules !!
+- Make a new folder of your username (or name)
+- Contribute your dotfiles into that folder
+- Also make a Readme and inside it put a screenshot of your config 
 
 ## License
 
