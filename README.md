@@ -23,6 +23,11 @@ To use these dotfiles on your Linux system, follow these steps:
 
 3. **Customize Configuration**: Feel free to customize any of the configuration files to suit your preferences. You can edit these files directly in the repository, and changes will be reflected in your system's configuration.
 
+4. If you want to pull `enderboi` configs then, you need to run the following command too
+    ```bash
+    git submobule update --init --recursive
+    ```
+
 ## Contents
 
 This repository includes configurations for various tools and programs commonly used in a Linux environment, including:

@@ -1,0 +1,6 @@
+[submodule "enderboi/arch"]
+	path = enderboi/arch
+	url = git@github.com:kashifulhaque/dotfiles.git
+[submodule "enderboi/nixos"]
+	path = enderboi/nixos
+	url = git@github.com:kashifulhaque/nixos-config.git
